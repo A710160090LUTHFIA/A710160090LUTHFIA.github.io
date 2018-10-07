@@ -1,5 +1,3 @@
-# A710160090.github.io
-index.html
 <html>
 	<HEAD>
 		<font color="black" face="algerian">
@@ -22,4 +20,4 @@ index.html
 		<p align="center">EMAIL : luthfianoor1998@gmail.com</p>
 		</font>
 	</BODY>
-		</HTML>
+		</html>
