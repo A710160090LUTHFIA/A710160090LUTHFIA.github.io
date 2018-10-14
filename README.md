@@ -9,11 +9,11 @@
 		</b>
 	</HEAD>
 	<body>
-<body style="background-color:orange;">
-<h2 style="background-color:DodgerBlue;">Nama : Kharismatul Nuraziza</h2>
-<h2 style="background-color:MediumSeaGreen;">Nim	: A710160061</h2>
-<h2 style="background-color:violet;">Kelas :PTI 5B</h2>
-<h2 style="background-color:Gray;">Matakuliah : Proyek T.I</h2>
+<body style="background-color:pink;">
+<h2 style="background-color:Blue;">Nama : Luthfia Noor Alif</h2>
+<h2 style="background-color:MediumSeaGreen;">Nim	: A710160090</h2>
+<h2 style="background-color:grey;">Kelas :PTI 5B</h2>
+<h2 style="background-color:MediumSeaGreen;">Matakuliah : Proyek T.I</h2>
 
 <H2>1. Pilih 3 judul artikel yang sesuai dengan peminatan Anda.</H2>
 
